@@ -40,11 +40,10 @@ nav ul li{
 	float: left;
 	width: calc(100% - 30px);
 	padding-left: 15px;
-	
 }
 
 footer{
-	background: gray;
+	background: black;
 	text-align: center;
 	height: 50px;
 	border: 1px solid black;
