@@ -25,11 +25,33 @@ nav{
 	width: 100%;
 }
 
-nav ul li{
+#inicio{
+	padding-top: 25px;
+	text-align: center;
 	float: left;
-	list-style: none;
-	margin-left: 150px;
-	line-height: 48px;
+	width: 25%;
+	height: 100%;
+}
+#git{
+	padding-top: 25px;
+	text-align: center;
+	float: left;
+	width: 25%;
+	height: 100%;
+}
+#html{
+	padding-top: 25px;
+	text-align: center;
+	float: left;
+	width: 25%;
+	height: 100%;
+}
+#css{
+	padding-top: 25px;
+	text-align: center;
+	float: left;
+	width: 24%;
+	height: 100%;
 }
 
 #clearfix{
