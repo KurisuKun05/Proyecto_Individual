@@ -1,5 +1,5 @@
 body{
-	background-image: url("Fondo.jpg");
+	background-image: url("img/fondo.jpg");
 	font-family: Arial, Serifa;
 }
 
@@ -10,7 +10,7 @@ body{
 }
 
 header{
-	background-image: url("FondoC.jpg");
+	background-image: url("img/fondoc.jpg");
 	height: 24%;
 	width: 100%;
 	border: 1px solid black;
@@ -19,7 +19,7 @@ header{
 }
 
 nav{
-	background-image: url("FondoM.jpg");
+	background-image: url("img/fondom.jpg");
 	border: 1px solid black;
 	height: 10%;
 	width: 100%;
