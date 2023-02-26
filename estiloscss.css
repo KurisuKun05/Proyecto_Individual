@@ -97,6 +97,31 @@ nav{
 	width: calc(100% - 30px);
 	padding-left: 15px;
 }
+article{
+	border-top: 4px dashed #5B2C6F;
+}
+
+#interno{
+	padding: 10px;
+	border: 1px solid black;
+	width: 32%;
+	text-align: center;
+	float: left;
+}
+#externo{
+	padding: 10px;
+	border: 1px solid black;
+	width: 31%;
+	text-align: center;
+	float: left;
+}
+#inline{
+	padding: 10px;
+	border: 1px solid black;
+	width: 31%;
+	text-align: center;
+	float: left;
+}
 
 footer{
 	background: black;
